@@ -1,1 +1,0 @@
-# detector-of-pacan
